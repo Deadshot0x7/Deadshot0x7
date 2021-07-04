@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on a SaaS product  and a Chrome Browser extension
+-🔭 I’m currently working on a SaaS product  and a Chrome Browser extension
 - 👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
 
 <!--
