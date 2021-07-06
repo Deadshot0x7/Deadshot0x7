@@ -2,6 +2,7 @@
 Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for Vscode , Python liabires for social Media username 
 -  🔭 I’m currently working on a SaaS product  and a Chrome Browser extension
 - 👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
+- 🤖 I've Written Two Reseraach paper 
 
 <!--
 **Deadshot0x7/Deadshot0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
