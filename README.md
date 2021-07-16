@@ -4,7 +4,7 @@ Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for 
 -  👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
 -  💻 I've Written Two Reseraach paper 
 -  🤑 I'm a freelance wordpress developer
--  👨‍💻 Got Message for me ? ; drop a Email at sviquarahmed@gmail.com
+-  👨‍💻 Got Message for me ?  drop a Email at sviquarahmed@gmail.com
 
 
 <!--
