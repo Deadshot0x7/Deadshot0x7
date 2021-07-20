@@ -5,7 +5,7 @@ Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for 
 -  💻 I've Written Two Reseraach paper 
 -  🤑 I'm a freelance wordpress developer
 -  👨‍💻 Got Message for me ?  drop a Email at sviquarahmed@gmail.com
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deadshot0x7&theme=default)
 
 <!--
 **Deadshot0x7/Deadshot0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
