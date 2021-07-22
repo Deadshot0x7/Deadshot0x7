@@ -1,6 +1,6 @@
 ### Hi there 
 Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for Vscode , Python liabires for social Media username 
--  🔭 I’m currently working on chrome extension and Custom rom
+-  🔭 I’m currently working on chrome extension ,Custom rom and Creating python libaries for generating static web pages 
 -  👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
 -  💻 I've Written Two Reseraach paper 
 -  🤑 I'm a freelance wordpress developer
