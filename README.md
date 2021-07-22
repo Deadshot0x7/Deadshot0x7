@@ -5,7 +5,7 @@ Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for 
 -  💻 I've Written Two Reseraach paper 
 -  🤑 I'm a freelance wordpress developer
 -  👨‍💻 Got Message for me ?  drop a Email at sviquarahmed@gmail.com
--  👨‍💻 My Web Tech Stack  : Forntend : Bootstrap : Backend  :  Dajngo 
+-  👨‍💻 My Web Tech Stack  : Forntend : Bootstrap : Backend  : Django 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deadshot0x7&theme=default)
 <!--
