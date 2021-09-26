@@ -68,9 +68,8 @@
 <img alt="Swapnil Soni's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
-[facebook]: https://fb.me/swapnilsoni1999
-[twitter]: https://twitter.com/SwapnilSoniXDA
-[youtube]: https://youtube.com/swapnilsoni
-[instagram]: https://instagram.com/soniswapnil
+
+[twitter]: https://twitter.com/Deadshot0x7xda
+
 [linkedin]: https://www.linkedin.com/in/sayyed-viquar-ahmed-b0b75a211/
 [xda]: https://forum.xda-developers.com/m/deadshot0x7.9654529/
