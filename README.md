@@ -9,7 +9,7 @@
 ## I'm a Full Stack Developer!
 
 - 🔭 ~~I’m currently working on a [custom rom ](https://piyasha.netlify.app/)
-- 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
+- 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday and to publish my [game][itchi]
 - ⚡ Hobbies: I love to make tools for script kiddies,custom rom and making libaries related to python language  
 
 ### Connect with me:
@@ -67,3 +67,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sayyed-viquar-ahmed-b0b75a211/
 [xda]: https://forum.xda-developers.com/m/deadshot0x7.9654529/
+[itchi]: https://deadshot0x7.itch.io/
