@@ -1,24 +1,76 @@
-### Hi there 
-Hello My Name is Sayyed Viquar Ahmed (Deadshot0x7) , I have created a theme for Vscode , Python liabires for social Media username 
--  🔭 I’m currently working on chrome extension , <a href="https://piyasha.netlify.app/">Custom rom</a> and Creating python libaries for generating static web pages 
--  👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
--  💻 I've Written Two Reseraach paper 
--  🤑 I'm a freelance wordpress developer
--  👨‍💻 Got Message for me ?  drop a Email at sviquarahmed@gmail.com
--  👨‍💻 My Web Tech Stack  : Forntend : Bootstrap : Backend  : Django 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deadshot0x7&theme=default)
-<!--
-**Deadshot0x7/Deadshot0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Sayyedviquarahmed - aka [Deadshot0x7][website] 👋
+![](https://komarev.com/ghpvc/?username=Deadshot0x7)
 
-Here are some ideas to get you started:
+<!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
+<!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
- 🔭 I’m currently working on a SaaS product 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Open Source Projects , Full Satck webapp , Game Testing 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Full Stack Developer!
+
+- 🔭 ~~I’m currently working on a [custom rom ](https://piyasha.netlify.app/)
+- 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
+- ⚡ Hobbies: I love to make tools for script kiddies,custom rom and making libaries related to python language  
+
+### Connect with me:
+
+[<img align="left" alt="swapnilsoni.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="swapnilsoni1999 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="swapnilsoni1999 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="swapnilsoni1999 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="swapnilsoni1999 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="swapnilsoni1999 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="swapnilsoni1999 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+
+<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
+
+<br />
+<br />
+
+### Github Stats
+
+<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deadshot0x7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<br />
+<img alt="Swapnil Soni's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
+
+[website]: https://deadshot0x7.github.io/semicolon.github.io/
+[facebook]: https://fb.me/swapnilsoni1999
+[twitter]: https://twitter.com/SwapnilSoniXDA
+[youtube]: https://youtube.com/swapnilsoni
+[instagram]: https://instagram.com/soniswapnil
+[linkedin]: https://www.linkedin.com/in/sayyed-viquar-ahmed-b0b75a211/
+[xda]: https://forum.xda-developers.com/m/deadshot0x7.9654529/
