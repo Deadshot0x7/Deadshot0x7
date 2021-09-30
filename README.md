@@ -9,7 +9,7 @@
 ## I'm a Full Stack Developer!
 ```
 print("Currenltly I'm working ona custom rom ")
-pritn("My hobbies are to create libaries for  python language")
+print("My hobbies are to create libaries for  python language")
 
 
 ```
