@@ -8,8 +8,8 @@
 
 ## I'm a Full Stack Developer!
 ```
-print("Currenltly I'm working ona custom rom ")
-print("My hobbies are to create libaries for  python language")
+> I'm Working on a custom rom
+> My hobbies are like to create the moduels or libary for the python 
 
 
 ```
