@@ -9,7 +9,7 @@
 ## I'm a Full Stack Developer!
 ```
 > I'm Working on a custom rom
-> My hobbies are like to create the moduels or libary for the python 
+> My hobbies are like to create the modules or libary for the python 
 
 
 ```
