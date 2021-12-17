@@ -6,7 +6,7 @@
 <!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack  Web Developer!
 ```
 > I'm Working on a custom rom
 > My hobbies is to create the modules or libary for the python 
