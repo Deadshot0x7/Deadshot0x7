@@ -45,19 +45,20 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png">
 
 
 
 
-
+<br />
 <br />
 <br />
 
 ### Github Stats
 
-<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deadshot0x7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<img alt="Deadshot0x7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deadshot0x7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
-<img alt="Swapnil Soni's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
+<img alt="Deadshot0x7 Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
 
