@@ -60,7 +60,6 @@
 <br />
 <img alt="Deadshot0x7 Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
 
-### Sponorship
 
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
@@ -70,3 +69,4 @@
 [linkedin]: https://www.linkedin.com/in/sayyed-viquar-ahmed-b0b75a211/
 [xda]: https://forum.xda-developers.com/m/deadshot0x7.9654529/
 [itchi]: https://deadshot0x7.itch.io/
+ 
