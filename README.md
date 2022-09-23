@@ -48,7 +48,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png">
 <img align="left" alt="Digitalocean" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png"/>
 <img algin ="left" alt="Wordpress" width="26" src="https://img.icons8.com/nolan/64/wordpress.png"/>
-<img algin="left" alt="Aws" width="26" src="https://img.icons8.com/color/48/000000/amazon-web-services.pngA"/>
+<img algin="left" alt="Aws" width="26" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 <br />
 <br />
