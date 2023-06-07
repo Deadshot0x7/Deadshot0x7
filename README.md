@@ -51,7 +51,6 @@
 <img align="left" alt="Aws" width="26" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="Wordpress-Woocommerce" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/woocommerce.png"/>
 <img align="left" alt="Wordpress-Woocommerce" width="26px" src="https://img.icons8.com/nolan/64/docker.png"/>
-![image](https://github.com/Deadshot0x7/Deadshot0x7/assets/68690437/65420134-8524-4cea-9c58-1f5254ea3af6)
         
 <br />
 <br />
