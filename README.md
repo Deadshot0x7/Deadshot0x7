@@ -6,10 +6,10 @@
 <!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
 
-## I'm a Full Stack  Web Developer & custom rom developer !
+## I'm a Full Stack  Web Developer & custom rom developer!
 ```
 > I'm Working on a custom rom
-> My hobbies is to create the modules or libary for the python 
+> My hobby is to create modules or libary for python 
 
 
 ```
@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sviquarahmed.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Deadshot0x7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Deadshot0x7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Deadshot0x7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="swapnilsoni1999 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
@@ -47,10 +47,10 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png">
 <img align="left" alt="Digitalocean" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png"/>
-<img align ="left" alt="Wordpress" width="26" src="https://img.icons8.com/nolan/64/wordpress.png"/>
+<img align ="left" alt="WordPress" width="26" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 <img align="left" alt="Aws" width="26" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img align="left" alt="Wordpress-Woocommerce" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/woocommerce.png"/>
-<img align="left" alt="Wordpress-Woocommerce" width="26px" src="https://img.icons8.com/nolan/64/docker.png"/>
+<img align="left" alt="WordPress-Woocommerce" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/woocommerce.png"/>
+<img align="left" alt="WordPress-Woocommerce" width="26px" src="https://img.icons8.com/nolan/64/docker.png"/>
         
 <br />
 <br />
@@ -62,7 +62,8 @@
 <br />
 <img alt="Deadshot0x7 Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
 
-
+### Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
 
