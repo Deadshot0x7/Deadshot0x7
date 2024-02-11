@@ -13,6 +13,12 @@
 
 
 ```
+# Arch Linux 
+
+## BTW I use Arch 
+
+<img align ="left" alt="Ahmed is ALways Greate" src="https://www.iconfinder.com/icons/386451/arch_linux_archlinux_icon">
+
 
 ### Connect with me:
 
@@ -20,7 +26,7 @@
 [<img align="left" alt="Deadshot0x7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Deadshot0x7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="swapnilsoni1999 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
+[<img align="left" alt="Deadshot0x7 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 <br />
 
