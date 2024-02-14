@@ -15,7 +15,7 @@
 ```
 # Arch Linux 
 
-BTW I USE ARCH LINUX ( GARUDA lINUX) 
+BTW I USE ARCH LINUX ( GARUDA Linux) 
 
 
 ### Connect with me:
