@@ -7,15 +7,12 @@
 
 
 ## I'm a Full Stack  Web Developer & custom rom developer!
-```
+```c++
 > I'm Working on a custom rom
 > My hobby is to create modules or libary for python 
-
+> Btw I use arch Linux 
 
 ```
-# Arch Linux 
-
-BTW I USE ARCH LINUX ( GARUDA Linux) 
 
 
 ### Connect with me:
