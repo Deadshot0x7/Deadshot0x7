@@ -6,10 +6,10 @@
 <!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
 
-## I'm a Full Stack  Web Developer & custom rom developer!
+## I'm a Full Stack  Web Developer & Custom Rom Developer & Embedded Engineer !
 ```c++
 > I'm Working on a custom rom
-> My hobby is to create modules or libary for python 
+> My hobby is to create modules  / libary for python & Arduin0
 > Btw I use arch Linux 
 
 ```
