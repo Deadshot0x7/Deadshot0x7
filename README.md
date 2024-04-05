@@ -9,7 +9,7 @@
 ## I'm a Full Stack  Web Developer & Custom Rom Developer & Embedded Engineer !
 ```c++
 > I'm Working on a custom rom
-> My hobby is to create modules  / libary for python & Arduin0
+> My hobby is to create modules  / libary for python & Arduin
 > Btw I use arch Linux 
 
 ```
