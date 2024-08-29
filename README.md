@@ -63,8 +63,6 @@
 <br />
 <img alt="Deadshot0x7 Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
 
-### MEME 🤓
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
 
