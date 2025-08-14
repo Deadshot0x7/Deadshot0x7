@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Sayyedviquarahmed - aka [Deadshot0x7][website] 👋
 ![](https://komarev.com/ghpvc/?username=Deadshot0x7)
-
 <!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
 <!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
@@ -24,7 +23,7 @@
 [<img align="left" alt="Deadshot0x7 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 <br />
-<img src="./assets/border_seprator.gif"
+
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
@@ -56,6 +55,8 @@
 <br />
 <br />
 <br />
+
+<img src="./border_seprator.gif" alt="Border Separator"/>
 
 ### Github Stats
 
