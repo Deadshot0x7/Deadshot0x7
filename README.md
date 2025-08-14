@@ -24,7 +24,7 @@
 [<img align="left" alt="Deadshot0x7 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 <br />
-
+<img src="./assets/border_seprator.gif"
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
