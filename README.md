@@ -1,4 +1,4 @@
-
+![Border Separator](border_separator.gif)
 ### Hi there, I'm Sayyedviquarahmed - aka [Deadshot0x7][website] 👋
 ![](https://komarev.com/ghpvc/?username=Deadshot0x7)
 <!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
@@ -56,13 +56,19 @@
 <br />
 <br />
 
-<img src="./border_seprator.gif" alt="Border Separator"/>
+
+
+
+
+
 
 ### Github Stats
 
 <img alt="Deadshot0x7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deadshot0x7&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
 <img alt="Deadshot0x7 Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Deadshot0x7&theme=dark" />
+
+![Border Separator](border_separator.gif)
 
 
 [website]: https://deadshot0x7.github.io/semicolon.github.io/
